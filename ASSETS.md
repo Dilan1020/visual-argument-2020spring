@@ -11,3 +11,7 @@
 * Brain
     * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
     * https://publicdomainvectors.org/en/free-clipart/Human-brain-clip-art/74692.html
+
+* Guy Clip Art
+    * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+    * https://freesvg.org/sculpture-silhouette-vector-drawing-of-human-head
