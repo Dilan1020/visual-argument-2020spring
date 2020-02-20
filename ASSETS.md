@@ -15,3 +15,6 @@
 * Guy Clip Art
     * CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
     * https://freesvg.org/sculpture-silhouette-vector-drawing-of-human-head
+
+* Source for statistic
+    * https://www.telegraph.co.uk/news/2018/08/01/decade-smartphones-now-spend-entire-day-every-week-online/
