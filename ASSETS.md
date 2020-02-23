@@ -18,3 +18,4 @@
 
 * Source for statistic
     * https://www.telegraph.co.uk/news/2018/08/01/decade-smartphones-now-spend-entire-day-every-week-online/
+    * https://bit.ly/39VKkGo
